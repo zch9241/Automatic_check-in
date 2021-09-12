@@ -15,8 +15,8 @@ import time
 
 
 #--user information--
-username = 'zch'
-password = '123456'
+username = ''
+password = ''
 
 browser = webdriver.Chrome(executable_path = r"C:\Users\x550\Desktop\chromedriver_win32\chromedriver.exe")
 
