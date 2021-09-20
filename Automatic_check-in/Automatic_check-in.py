@@ -18,6 +18,7 @@ import time
 username = ''
 password = ''
 
+#executable_path为selenium驱动所在位置
 browser = webdriver.Chrome(executable_path = r"C:\Users\x550\Desktop\chromedriver_win32\chromedriver.exe")
 
 browser.get("https://www.acgtubao.com/")
